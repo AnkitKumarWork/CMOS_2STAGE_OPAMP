@@ -6,6 +6,7 @@ Abstract— Operational amplifier is consider to be the most imperative electron
 84db with phase margin of 560 and the power dissipation is of 
 38.02μW
 Keywords—CMOS,opamp, Cadence,90nm opamp, gain 
+
 BLOCK DIAGRAM
 
 
