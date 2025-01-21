@@ -34,6 +34,7 @@ A compensation circuit is added to ensure stability in feedback conditions, typi
 
 V.CONCLUSION
 The simulation has been carried out using Cadence tool with 90nm technology. The gain has been increased by optimizing the parameters like (W/L) values. Using the design equations, by choosing and carefully sizing the structure of the circuit. The design performs a gain of 84db with phase margin of 87.89 under unity gain feedback configuration and the power dissipation is of 31.02μW, which is not correct we need to improve Miler compensation to control RHP which is responsible for UNITY GAIN BANDWIDHTH  location in bode plot.
+
 VI.REFERENCES
 [1]	B. Razavi, “Design of Analog CMOS Integrated Circuits”, New York: Mc-Graw Hill, 2001.  
 [2]	.  Allen, P. E., & Holberg, D. R. (2002). CMOS Analog Circuit Design (2nd ed.). Oxford University Press.
