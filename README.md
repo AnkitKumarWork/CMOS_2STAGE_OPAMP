@@ -10,9 +10,13 @@ BLOCK DIAGRAM
 ![image](https://github.com/user-attachments/assets/880b8647-374c-4b88-b32a-3d8cb1cf2f02)
 
 CIRCUIT
+
 ![image](https://github.com/user-attachments/assets/f53ee111-be8f-4243-b7c9-9ed75a48ebad)
+
 Fig.circuit diagram for Opamp using 90nm technology 
+
 ![image](https://github.com/user-attachments/assets/a8e29bd5-a33d-463a-b1a7-4492c666f994)
+
 Fig.Circuit diagram of Opamp test bench in 90nm  
 
 INTRODUCTION 
