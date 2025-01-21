@@ -1,4 +1,7 @@
 CMOS OPAMP 2 STAGE 
+
+
+
 Abstract— Operational amplifier is consider to be the most imperative electronic device. The procedure inscribed in this paper is to design a two stage CMOS operational amplifier (Opamp) and analyze the effect of various parameters on the characteristics of Opamp design. This paper is mainly concentrating on design of optimized Opamp gain. Keeping this as a main aspect, Opamp specifications are taken into account, i.e., Gain, phase margin, slew rate, power dissipation and others. This work presents a design and implementation of two stage CMOS operational amplifier which operates at ±1V supply voltage and Simulation process is carried out by using an EDA tool cadence virtuoso with 90nm technology. The obtained gain is 
 84db with phase margin of 560 and the power dissipation is of 
 38.02μW
