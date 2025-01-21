@@ -7,6 +7,8 @@ Abstract— Operational amplifier is consider to be the most imperative electron
 38.02μW
 Keywords—CMOS,opamp, Cadence,90nm opamp, gain 
 BLOCK DIAGRAM
+
+
 ![image](https://github.com/user-attachments/assets/880b8647-374c-4b88-b32a-3d8cb1cf2f02)
 
 CIRCUIT
